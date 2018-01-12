@@ -1,0 +1,13 @@
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.frmExpress.resources
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.frmMain.resources
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.frmCampus.resources
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.frmCatering.resources
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.Resources.resources
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.vbproj.GenerateResource.Cache
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\bin\Debug\CafeOpera.exe
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\bin\Debug\CafeOpera.pdb
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\bin\Debug\CafeOpera.xml
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.exe
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.xml
+C:\Users\Adeola\Documents\Kennesaw\Fall 2008\Applicaton Development I\Term Project\CafeOpera\CafeOpera\obj\Debug\CafeOpera.pdb
